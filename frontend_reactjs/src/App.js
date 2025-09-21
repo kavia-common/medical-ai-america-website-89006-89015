@@ -28,7 +28,7 @@ function App() {
         </button>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Medical AI America - React App edited!
         </p>
         <p>
           Current theme: <strong>{theme}</strong>
